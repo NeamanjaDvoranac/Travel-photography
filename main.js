@@ -1,1 +1,1 @@
-// alert('sajt u pripremi');
+alert('sajt u pripremi');
